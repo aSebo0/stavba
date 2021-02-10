@@ -1,0 +1,89 @@
+/* FOOTER */
+
+.pre-footer {
+    color: #fff;
+    background: #1D607B;
+    text-align: center;
+}
+
+.ikonz a {
+    color: #fff;
+}
+
+.pre-footer .container {
+    width: 400px;
+    padding: 40px 0 60px 0;
+}
+
+.pre-footer p {
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+}
+
+.pre-footer strong {
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: none;
+}
+
+.pre-footer .personal li {
+    margin-right: 0px;
+}
+
+.pre-footer .personal li:first-child {
+    margin-right: 60px;
+}
+
+footer {
+    font-size: 14px;
+}
+
+footer p {
+    color: #a6a6a6;
+    float: left;
+    padding-left: 10px;
+}
+
+footer p a {
+    color: #ffe017;
+    font-weight: 600;
+}
+
+footer a:hover {
+    color: #dec109;
+}
+
+footer p,
+footer .menu {
+    margin: 32px 0 32px 0;
+}
+
+footer .menu {
+    font-weight: 600;
+    text-transform: uppercase;
+    float: right;
+}
+
+footer .menu a {
+    color: #989898;
+}
+
+footer .menu a:hover,
+footer .menu a:focus {
+    text-decoration: underline;
+}
+
+footer li::after {
+    content: '/' ;
+    color: #989898;
+    margin: 0px 8px;
+}
+
+footer li:last-child::after{
+    content: '' ;
+}
+
+.copy {
+    padding-left: 295px;
+}
